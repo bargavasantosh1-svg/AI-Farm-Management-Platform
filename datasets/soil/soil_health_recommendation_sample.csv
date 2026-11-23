@@ -1,0 +1,501 @@
+Soil_pH,Nitrogen_kg_ha,Phosphorus_kg_ha,Potassium_kg_ha,Organic_Matter_percent,Electrical_Conductivity_dS_m,Soil_Health_Recommendation
+8.0,295,21,155,2.88,0.47,Alkaline soil - verify pH and assess nutrient availability
+8.9,369,33,250,3.21,0.6,Alkaline soil - verify pH and assess nutrient availability
+6.5,240,18,82,2.68,3.31,Salinity concern - assess water quality and drainage
+6.5,393,21,95,2.35,0.35,Maintain soil health - continue monitoring
+8.2,159,29,77,1.61,3.89,Alkaline soil - verify pH and assess nutrient availability
+8.5,332,31,255,1.02,1.92,Alkaline soil - verify pH and assess nutrient availability
+4.7,256,9,245,3.06,3.87,Acidic soil - verify pH and seek local amendment guidance
+6.0,305,41,137,2.04,0.84,Maintain soil health - continue monitoring
+5.1,307,22,125,2.78,1.8,Acidic soil - verify pH and seek local amendment guidance
+8.2,141,29,233,1.46,3.35,Alkaline soil - verify pH and assess nutrient availability
+8.1,363,19,290,2.83,0.65,Alkaline soil - verify pH and assess nutrient availability
+5.4,163,36,32,3.21,2.69,Acidic soil - verify pH and seek local amendment guidance
+7.7,159,35,191,2.4,0.65,Maintain soil health - continue monitoring
+5.0,225,21,223,2.04,2.3,Acidic soil - verify pH and seek local amendment guidance
+7.9,266,29,193,2.37,1.29,Alkaline soil - verify pH and assess nutrient availability
+4.6,259,17,156,1.09,1.69,Acidic soil - verify pH and seek local amendment guidance
+8.3,72,12,268,1.34,1.25,Alkaline soil - verify pH and assess nutrient availability
+7.5,80,8,191,3.2,2.69,Salinity concern - assess water quality and drainage
+6.3,210,37,123,0.38,0.45,Low organic matter - consider suitable organic matter practices
+7.8,120,32,163,0.9,2.05,Salinity concern - assess water quality and drainage
+5.2,239,32,173,1.71,1.28,Acidic soil - verify pH and seek local amendment guidance
+7.3,220,28,134,0.62,0.56,Low organic matter - consider suitable organic matter practices
+8.8,191,41,173,1.28,3.88,Alkaline soil - verify pH and assess nutrient availability
+8.0,311,13,237,1.96,1.16,Alkaline soil - verify pH and assess nutrient availability
+4.9,220,40,66,1.05,1.29,Acidic soil - verify pH and seek local amendment guidance
+7.1,224,25,81,3.47,3.06,Salinity concern - assess water quality and drainage
+7.7,298,21,119,2.46,2.63,Salinity concern - assess water quality and drainage
+4.9,285,34,150,0.45,2.03,Acidic soil - verify pH and seek local amendment guidance
+6.0,297,9,226,2.47,0.77,Nutrient review needed - use crop-specific soil test
+8.7,97,44,198,1.58,2.4,Alkaline soil - verify pH and assess nutrient availability
+4.6,114,43,151,3.2,0.42,Acidic soil - verify pH and seek local amendment guidance
+6.7,233,31,172,3.77,2.33,Salinity concern - assess water quality and drainage
+6.6,350,14,306,2.23,1.81,Maintain soil health - continue monitoring
+4.6,179,18,269,3.62,0.65,Acidic soil - verify pH and seek local amendment guidance
+7.0,173,7,223,1.34,2.67,Salinity concern - assess water quality and drainage
+7.8,302,42,252,0.7,3.67,Salinity concern - assess water quality and drainage
+5.5,145,4,70,1.67,3.34,Salinity concern - assess water quality and drainage
+8.1,259,43,121,3.83,1.23,Alkaline soil - verify pH and assess nutrient availability
+6.8,385,13,317,0.91,0.28,Low organic matter - consider suitable organic matter practices
+6.5,396,43,317,3.6,3.02,Salinity concern - assess water quality and drainage
+8.5,140,40,63,1.47,3.11,Alkaline soil - verify pH and assess nutrient availability
+7.5,246,20,138,0.65,3.01,Salinity concern - assess water quality and drainage
+5.7,61,42,304,0.75,3.34,Salinity concern - assess water quality and drainage
+5.2,146,34,81,2.52,3.51,Acidic soil - verify pH and seek local amendment guidance
+5.4,160,16,319,3.9,2.05,Acidic soil - verify pH and seek local amendment guidance
+5.1,339,42,34,1.15,0.61,Acidic soil - verify pH and seek local amendment guidance
+7.5,408,8,115,2.87,2.37,Salinity concern - assess water quality and drainage
+5.4,242,39,263,2.95,2.98,Acidic soil - verify pH and seek local amendment guidance
+5.1,216,8,194,1.77,1.27,Acidic soil - verify pH and seek local amendment guidance
+6.7,393,24,222,3.84,1.22,Maintain soil health - continue monitoring
+8.7,239,4,203,2.65,0.51,Alkaline soil - verify pH and assess nutrient availability
+5.1,259,34,151,3.88,2.42,Acidic soil - verify pH and seek local amendment guidance
+8.7,325,36,155,3.2,0.17,Alkaline soil - verify pH and assess nutrient availability
+5.0,228,15,270,3.25,1.01,Acidic soil - verify pH and seek local amendment guidance
+6.9,335,28,300,2.53,1.71,Maintain soil health - continue monitoring
+6.2,372,41,153,2.71,3.48,Salinity concern - assess water quality and drainage
+6.5,251,13,107,3.06,3.28,Salinity concern - assess water quality and drainage
+5.0,145,40,49,2.5,0.67,Acidic soil - verify pH and seek local amendment guidance
+8.2,174,16,297,3.71,0.75,Alkaline soil - verify pH and assess nutrient availability
+5.8,111,27,74,0.73,0.18,Low organic matter - consider suitable organic matter practices
+4.7,130,10,270,2.49,2.75,Acidic soil - verify pH and seek local amendment guidance
+6.3,79,37,122,2.17,3.51,Salinity concern - assess water quality and drainage
+8.3,253,4,172,1.18,1.07,Alkaline soil - verify pH and assess nutrient availability
+7.1,125,42,150,0.48,1.56,Low organic matter - consider suitable organic matter practices
+6.9,381,7,57,0.49,3.71,Salinity concern - assess water quality and drainage
+4.9,360,38,274,3.64,3.92,Acidic soil - verify pH and seek local amendment guidance
+8.1,268,35,212,3.18,0.62,Alkaline soil - verify pH and assess nutrient availability
+6.9,291,16,179,3.47,1.9,Maintain soil health - continue monitoring
+6.2,307,29,102,0.82,1.96,Low organic matter - consider suitable organic matter practices
+6.4,155,28,97,1.66,1.53,Maintain soil health - continue monitoring
+6.0,216,18,83,1.4,3.8,Salinity concern - assess water quality and drainage
+8.6,306,38,169,1.51,2.19,Alkaline soil - verify pH and assess nutrient availability
+8.3,236,30,88,2.27,2.57,Alkaline soil - verify pH and assess nutrient availability
+5.8,349,10,243,1.05,2.81,Salinity concern - assess water quality and drainage
+8.4,390,8,306,0.65,2.93,Alkaline soil - verify pH and assess nutrient availability
+4.9,281,24,301,0.81,3.84,Acidic soil - verify pH and seek local amendment guidance
+8.1,206,27,159,3.24,3.79,Alkaline soil - verify pH and assess nutrient availability
+5.6,341,33,201,0.65,2.5,Salinity concern - assess water quality and drainage
+5.3,106,26,32,2.02,2.14,Acidic soil - verify pH and seek local amendment guidance
+7.9,266,41,261,2.12,2.44,Alkaline soil - verify pH and assess nutrient availability
+8.7,364,8,257,0.62,2.67,Alkaline soil - verify pH and assess nutrient availability
+6.4,102,41,254,2.78,1.4,Nutrient review needed - use crop-specific soil test
+8.5,354,35,214,1.65,1.33,Alkaline soil - verify pH and assess nutrient availability
+5.2,157,43,72,3.76,1.81,Acidic soil - verify pH and seek local amendment guidance
+6.2,106,33,81,3.76,3.14,Salinity concern - assess water quality and drainage
+6.7,259,8,139,3.95,2.9,Salinity concern - assess water quality and drainage
+8.8,212,7,108,2.66,0.58,Alkaline soil - verify pH and assess nutrient availability
+7.1,366,4,228,0.35,1.87,Low organic matter - consider suitable organic matter practices
+8.2,215,15,310,1.94,1.28,Alkaline soil - verify pH and assess nutrient availability
+8.6,225,34,256,0.71,3.99,Alkaline soil - verify pH and assess nutrient availability
+8.5,306,14,255,0.69,4.0,Alkaline soil - verify pH and assess nutrient availability
+7.5,361,8,218,0.63,3.6,Salinity concern - assess water quality and drainage
+4.6,148,13,161,3.17,0.87,Acidic soil - verify pH and seek local amendment guidance
+8.6,111,15,220,0.43,0.12,Alkaline soil - verify pH and assess nutrient availability
+4.7,355,28,314,1.18,3.41,Acidic soil - verify pH and seek local amendment guidance
+4.8,348,31,262,3.73,3.11,Acidic soil - verify pH and seek local amendment guidance
+7.6,355,38,159,1.05,0.59,Maintain soil health - continue monitoring
+6.8,74,25,246,2.63,3.42,Salinity concern - assess water quality and drainage
+5.2,352,33,45,1.3,2.87,Acidic soil - verify pH and seek local amendment guidance
+8.9,129,34,207,0.5,2.5,Alkaline soil - verify pH and assess nutrient availability
+4.7,138,40,163,0.94,0.46,Acidic soil - verify pH and seek local amendment guidance
+5.3,315,18,314,2.0,3.16,Acidic soil - verify pH and seek local amendment guidance
+7.4,374,27,159,3.8,1.28,Maintain soil health - continue monitoring
+7.1,112,25,232,2.7,3.77,Salinity concern - assess water quality and drainage
+5.2,226,24,230,2.05,0.56,Acidic soil - verify pH and seek local amendment guidance
+5.1,205,42,110,1.43,1.77,Acidic soil - verify pH and seek local amendment guidance
+7.2,204,29,311,1.81,0.95,Maintain soil health - continue monitoring
+7.1,208,28,121,0.43,1.73,Low organic matter - consider suitable organic matter practices
+6.6,113,12,57,2.39,2.84,Salinity concern - assess water quality and drainage
+7.4,266,27,219,1.47,3.17,Salinity concern - assess water quality and drainage
+7.0,130,21,183,1.63,2.1,Salinity concern - assess water quality and drainage
+7.8,285,26,287,3.71,2.06,Salinity concern - assess water quality and drainage
+6.8,156,36,101,3.4,2.03,Salinity concern - assess water quality and drainage
+5.0,173,5,50,3.42,0.32,Acidic soil - verify pH and seek local amendment guidance
+5.8,263,17,171,1.46,3.0,Salinity concern - assess water quality and drainage
+4.6,122,21,269,3.47,1.55,Acidic soil - verify pH and seek local amendment guidance
+5.2,146,28,223,1.65,3.84,Acidic soil - verify pH and seek local amendment guidance
+9.0,103,21,253,1.45,2.78,Alkaline soil - verify pH and assess nutrient availability
+7.7,331,19,298,0.34,0.92,Low organic matter - consider suitable organic matter practices
+6.9,290,22,77,0.91,3.36,Salinity concern - assess water quality and drainage
+9.0,404,26,88,3.96,0.65,Alkaline soil - verify pH and assess nutrient availability
+6.5,362,38,143,0.6,3.05,Salinity concern - assess water quality and drainage
+6.5,232,22,296,0.97,3.64,Salinity concern - assess water quality and drainage
+4.7,114,29,97,1.38,2.01,Acidic soil - verify pH and seek local amendment guidance
+7.1,320,23,34,1.2,3.39,Salinity concern - assess water quality and drainage
+7.4,90,26,218,2.78,3.08,Salinity concern - assess water quality and drainage
+4.8,320,18,245,1.55,3.39,Acidic soil - verify pH and seek local amendment guidance
+6.7,254,25,252,3.45,2.07,Salinity concern - assess water quality and drainage
+8.6,169,27,64,1.56,2.05,Alkaline soil - verify pH and assess nutrient availability
+6.9,366,24,60,1.77,3.68,Salinity concern - assess water quality and drainage
+7.3,200,10,32,1.01,0.2,Nutrient review needed - use crop-specific soil test
+8.7,181,32,159,1.44,2.43,Alkaline soil - verify pH and assess nutrient availability
+4.5,209,14,79,2.64,3.93,Acidic soil - verify pH and seek local amendment guidance
+7.3,313,39,168,3.12,3.62,Salinity concern - assess water quality and drainage
+7.7,162,43,210,3.51,0.55,Maintain soil health - continue monitoring
+7.8,341,36,157,2.35,2.65,Salinity concern - assess water quality and drainage
+8.9,98,44,74,3.01,3.02,Alkaline soil - verify pH and assess nutrient availability
+6.1,163,3,65,0.45,3.13,Salinity concern - assess water quality and drainage
+6.7,375,44,279,3.92,1.71,Maintain soil health - continue monitoring
+8.1,227,30,54,2.36,3.23,Alkaline soil - verify pH and assess nutrient availability
+8.7,220,37,99,1.68,0.29,Alkaline soil - verify pH and assess nutrient availability
+5.0,73,42,225,2.94,3.12,Acidic soil - verify pH and seek local amendment guidance
+8.4,326,34,144,0.48,1.01,Alkaline soil - verify pH and assess nutrient availability
+7.3,348,12,278,0.32,2.11,Salinity concern - assess water quality and drainage
+7.5,251,4,250,3.61,2.72,Salinity concern - assess water quality and drainage
+5.6,204,20,277,1.59,3.43,Salinity concern - assess water quality and drainage
+5.8,315,27,160,1.32,3.56,Salinity concern - assess water quality and drainage
+5.3,202,31,54,1.57,2.9,Acidic soil - verify pH and seek local amendment guidance
+8.1,252,44,215,1.81,0.63,Alkaline soil - verify pH and assess nutrient availability
+7.1,166,10,319,2.89,2.42,Salinity concern - assess water quality and drainage
+6.3,238,41,93,0.8,1.52,Low organic matter - consider suitable organic matter practices
+4.8,238,17,88,0.37,1.87,Acidic soil - verify pH and seek local amendment guidance
+7.4,377,17,160,3.85,3.03,Salinity concern - assess water quality and drainage
+6.9,211,44,112,3.62,1.02,Maintain soil health - continue monitoring
+6.0,380,41,118,3.05,2.4,Salinity concern - assess water quality and drainage
+7.4,250,4,116,1.19,1.36,Nutrient review needed - use crop-specific soil test
+5.2,184,39,30,2.38,3.19,Acidic soil - verify pH and seek local amendment guidance
+8.0,161,29,157,2.06,3.98,Alkaline soil - verify pH and assess nutrient availability
+7.5,152,37,224,3.21,0.82,Maintain soil health - continue monitoring
+7.0,384,16,59,2.72,3.83,Salinity concern - assess water quality and drainage
+6.8,396,21,70,3.85,0.5,Nutrient review needed - use crop-specific soil test
+4.7,72,5,101,0.54,1.87,Acidic soil - verify pH and seek local amendment guidance
+6.8,344,16,43,0.71,1.6,Low organic matter - consider suitable organic matter practices
+4.8,78,40,232,1.07,1.28,Acidic soil - verify pH and seek local amendment guidance
+6.3,142,20,73,0.71,3.46,Salinity concern - assess water quality and drainage
+4.5,60,7,177,2.11,1.4,Acidic soil - verify pH and seek local amendment guidance
+6.4,258,35,165,1.26,1.36,Maintain soil health - continue monitoring
+5.6,362,41,169,2.83,0.99,Maintain soil health - continue monitoring
+6.0,148,42,169,2.0,2.88,Salinity concern - assess water quality and drainage
+5.2,77,28,43,0.81,3.68,Acidic soil - verify pH and seek local amendment guidance
+4.5,395,10,266,0.71,2.52,Acidic soil - verify pH and seek local amendment guidance
+5.6,71,6,195,2.48,3.41,Salinity concern - assess water quality and drainage
+4.5,161,38,184,0.9,3.11,Acidic soil - verify pH and seek local amendment guidance
+8.3,282,15,103,3.7,1.87,Alkaline soil - verify pH and assess nutrient availability
+7.2,387,44,53,3.31,1.34,Nutrient review needed - use crop-specific soil test
+8.1,190,7,204,1.1,1.71,Alkaline soil - verify pH and assess nutrient availability
+5.9,356,6,279,1.58,0.17,Nutrient review needed - use crop-specific soil test
+5.2,70,30,240,2.92,2.98,Acidic soil - verify pH and seek local amendment guidance
+5.9,104,40,72,0.77,0.66,Low organic matter - consider suitable organic matter practices
+7.6,273,5,80,2.18,3.97,Salinity concern - assess water quality and drainage
+4.5,392,3,190,2.46,0.59,Acidic soil - verify pH and seek local amendment guidance
+8.5,417,6,285,2.28,2.52,Alkaline soil - verify pH and assess nutrient availability
+5.7,319,5,159,1.39,2.69,Salinity concern - assess water quality and drainage
+8.3,274,10,35,2.5,1.0,Alkaline soil - verify pH and assess nutrient availability
+8.4,362,13,209,2.35,1.65,Alkaline soil - verify pH and assess nutrient availability
+7.5,279,25,240,2.4,3.06,Salinity concern - assess water quality and drainage
+8.9,113,20,298,0.35,3.2,Alkaline soil - verify pH and assess nutrient availability
+6.8,245,20,148,0.65,3.57,Salinity concern - assess water quality and drainage
+6.3,117,31,165,3.86,0.8,Nutrient review needed - use crop-specific soil test
+5.4,113,41,279,3.68,0.93,Acidic soil - verify pH and seek local amendment guidance
+6.6,376,33,216,1.7,2.12,Salinity concern - assess water quality and drainage
+7.8,376,30,242,3.2,2.32,Salinity concern - assess water quality and drainage
+5.0,340,40,232,3.25,0.49,Acidic soil - verify pH and seek local amendment guidance
+5.4,371,21,245,0.39,3.92,Acidic soil - verify pH and seek local amendment guidance
+6.2,349,33,300,1.76,1.34,Maintain soil health - continue monitoring
+7.2,379,26,198,1.81,2.45,Salinity concern - assess water quality and drainage
+8.7,241,22,49,1.7,1.64,Alkaline soil - verify pH and assess nutrient availability
+5.1,130,16,77,2.83,1.42,Acidic soil - verify pH and seek local amendment guidance
+8.8,321,13,87,3.09,3.54,Alkaline soil - verify pH and assess nutrient availability
+5.8,95,23,88,0.99,2.14,Salinity concern - assess water quality and drainage
+6.6,223,13,67,2.08,3.84,Salinity concern - assess water quality and drainage
+7.4,76,31,173,0.71,1.08,Low organic matter - consider suitable organic matter practices
+5.8,172,35,117,3.64,3.94,Salinity concern - assess water quality and drainage
+8.9,375,17,306,0.57,0.64,Alkaline soil - verify pH and assess nutrient availability
+5.9,140,26,153,3.43,2.51,Salinity concern - assess water quality and drainage
+6.9,94,24,77,1.24,0.73,Nutrient review needed - use crop-specific soil test
+8.3,194,27,181,1.4,1.55,Alkaline soil - verify pH and assess nutrient availability
+6.3,324,7,250,3.16,0.91,Nutrient review needed - use crop-specific soil test
+8.7,207,8,97,0.67,1.13,Alkaline soil - verify pH and assess nutrient availability
+8.3,382,28,82,1.83,1.85,Alkaline soil - verify pH and assess nutrient availability
+5.6,376,32,68,3.54,1.42,Nutrient review needed - use crop-specific soil test
+6.9,366,33,102,1.21,0.73,Maintain soil health - continue monitoring
+8.7,86,40,30,2.22,2.01,Alkaline soil - verify pH and assess nutrient availability
+6.9,339,19,185,1.91,0.61,Maintain soil health - continue monitoring
+5.1,125,42,55,3.83,0.74,Acidic soil - verify pH and seek local amendment guidance
+7.0,233,43,90,1.24,0.22,Maintain soil health - continue monitoring
+5.0,116,41,30,2.55,1.91,Acidic soil - verify pH and seek local amendment guidance
+6.3,175,25,184,0.99,3.96,Salinity concern - assess water quality and drainage
+8.2,354,34,137,0.87,3.69,Alkaline soil - verify pH and assess nutrient availability
+6.0,228,26,44,1.57,3.2,Salinity concern - assess water quality and drainage
+7.3,79,34,214,1.08,3.7,Salinity concern - assess water quality and drainage
+6.5,345,15,215,0.31,3.97,Salinity concern - assess water quality and drainage
+5.8,376,5,145,0.78,0.69,Low organic matter - consider suitable organic matter practices
+7.3,224,23,143,3.71,1.34,Maintain soil health - continue monitoring
+7.8,319,22,117,2.52,1.94,Maintain soil health - continue monitoring
+8.8,297,25,129,0.96,2.74,Alkaline soil - verify pH and assess nutrient availability
+8.3,270,4,316,3.6,3.02,Alkaline soil - verify pH and assess nutrient availability
+9.0,221,22,184,2.74,1.28,Alkaline soil - verify pH and assess nutrient availability
+8.8,317,18,243,1.79,2.29,Alkaline soil - verify pH and assess nutrient availability
+7.7,325,27,177,3.66,1.74,Maintain soil health - continue monitoring
+7.4,204,17,231,1.93,0.59,Maintain soil health - continue monitoring
+4.9,206,16,223,2.73,2.69,Acidic soil - verify pH and seek local amendment guidance
+4.6,379,16,263,3.18,3.46,Acidic soil - verify pH and seek local amendment guidance
+5.6,131,41,223,0.78,1.17,Low organic matter - consider suitable organic matter practices
+5.1,160,14,111,3.67,0.89,Acidic soil - verify pH and seek local amendment guidance
+6.9,302,25,233,3.83,2.48,Salinity concern - assess water quality and drainage
+5.6,170,29,48,3.91,1.66,Nutrient review needed - use crop-specific soil test
+7.6,175,25,36,1.78,3.51,Salinity concern - assess water quality and drainage
+7.2,190,21,81,3.46,1.36,Maintain soil health - continue monitoring
+7.0,396,32,172,2.64,1.4,Maintain soil health - continue monitoring
+5.6,205,41,306,3.42,3.91,Salinity concern - assess water quality and drainage
+7.9,392,44,251,3.12,1.97,Alkaline soil - verify pH and assess nutrient availability
+6.6,311,13,205,1.37,1.11,Maintain soil health - continue monitoring
+7.1,292,18,148,1.11,3.28,Salinity concern - assess water quality and drainage
+8.4,265,10,136,1.54,3.21,Alkaline soil - verify pH and assess nutrient availability
+8.3,62,12,70,3.17,0.55,Alkaline soil - verify pH and assess nutrient availability
+6.3,222,44,113,0.87,1.75,Low organic matter - consider suitable organic matter practices
+7.3,129,39,300,3.93,0.37,Nutrient review needed - use crop-specific soil test
+5.1,271,36,102,3.57,2.69,Acidic soil - verify pH and seek local amendment guidance
+5.0,157,32,271,0.95,1.75,Acidic soil - verify pH and seek local amendment guidance
+7.0,147,24,115,2.71,3.97,Salinity concern - assess water quality and drainage
+9.0,307,4,179,0.65,2.94,Alkaline soil - verify pH and assess nutrient availability
+8.9,175,16,116,1.87,0.3,Alkaline soil - verify pH and assess nutrient availability
+7.5,226,35,132,3.21,3.35,Salinity concern - assess water quality and drainage
+8.2,397,20,144,3.07,3.23,Alkaline soil - verify pH and assess nutrient availability
+6.7,175,12,288,0.83,3.53,Salinity concern - assess water quality and drainage
+4.9,177,9,119,0.55,0.31,Acidic soil - verify pH and seek local amendment guidance
+4.5,252,6,156,3.17,0.24,Acidic soil - verify pH and seek local amendment guidance
+7.4,328,37,129,0.84,3.46,Salinity concern - assess water quality and drainage
+8.2,120,26,186,3.33,0.46,Alkaline soil - verify pH and assess nutrient availability
+6.3,256,33,200,3.08,2.07,Salinity concern - assess water quality and drainage
+7.9,152,33,164,1.66,0.95,Alkaline soil - verify pH and assess nutrient availability
+5.4,293,34,308,0.62,0.79,Acidic soil - verify pH and seek local amendment guidance
+5.3,102,4,268,1.77,3.96,Acidic soil - verify pH and seek local amendment guidance
+5.1,415,30,82,1.75,3.51,Acidic soil - verify pH and seek local amendment guidance
+8.9,221,43,283,1.01,0.96,Alkaline soil - verify pH and assess nutrient availability
+7.5,400,15,103,2.4,2.25,Salinity concern - assess water quality and drainage
+8.2,324,18,236,0.4,0.29,Alkaline soil - verify pH and assess nutrient availability
+7.2,193,23,209,1.85,3.06,Salinity concern - assess water quality and drainage
+8.2,153,17,192,1.73,1.16,Alkaline soil - verify pH and assess nutrient availability
+6.8,118,16,160,2.8,0.36,Nutrient review needed - use crop-specific soil test
+4.5,263,3,91,3.61,2.62,Acidic soil - verify pH and seek local amendment guidance
+5.3,362,40,57,2.06,3.75,Acidic soil - verify pH and seek local amendment guidance
+4.8,229,17,92,2.47,0.86,Acidic soil - verify pH and seek local amendment guidance
+7.6,69,11,288,1.07,1.75,Nutrient review needed - use crop-specific soil test
+5.3,95,6,69,3.48,1.35,Acidic soil - verify pH and seek local amendment guidance
+6.1,147,5,182,1.28,2.48,Salinity concern - assess water quality and drainage
+5.4,188,36,287,3.74,0.49,Acidic soil - verify pH and seek local amendment guidance
+5.0,78,7,163,0.75,3.42,Acidic soil - verify pH and seek local amendment guidance
+7.9,283,7,267,2.25,3.99,Alkaline soil - verify pH and assess nutrient availability
+4.7,135,19,48,3.81,2.35,Acidic soil - verify pH and seek local amendment guidance
+8.1,176,41,79,3.92,2.04,Alkaline soil - verify pH and assess nutrient availability
+6.7,164,43,307,1.77,2.38,Salinity concern - assess water quality and drainage
+5.1,197,30,123,1.01,0.5,Acidic soil - verify pH and seek local amendment guidance
+8.4,71,27,197,1.81,1.78,Alkaline soil - verify pH and assess nutrient availability
+7.3,189,18,298,3.75,1.63,Maintain soil health - continue monitoring
+6.0,157,21,311,2.01,2.67,Salinity concern - assess water quality and drainage
+7.0,264,18,123,1.58,1.58,Maintain soil health - continue monitoring
+4.9,170,9,175,1.74,0.94,Acidic soil - verify pH and seek local amendment guidance
+7.0,320,34,249,1.25,3.32,Salinity concern - assess water quality and drainage
+8.7,125,28,60,0.49,3.79,Alkaline soil - verify pH and assess nutrient availability
+6.3,300,7,297,2.44,0.12,Nutrient review needed - use crop-specific soil test
+4.7,396,31,294,0.4,3.0,Acidic soil - verify pH and seek local amendment guidance
+8.3,262,13,173,2.02,0.12,Alkaline soil - verify pH and assess nutrient availability
+8.0,397,16,285,1.68,2.3,Alkaline soil - verify pH and assess nutrient availability
+5.7,376,31,76,3.17,2.04,Salinity concern - assess water quality and drainage
+6.9,146,43,52,3.47,0.83,Nutrient review needed - use crop-specific soil test
+7.2,406,43,284,1.69,0.49,Maintain soil health - continue monitoring
+8.1,241,23,100,3.93,2.47,Alkaline soil - verify pH and assess nutrient availability
+6.4,263,42,137,1.85,0.56,Maintain soil health - continue monitoring
+8.1,139,38,49,1.42,3.51,Alkaline soil - verify pH and assess nutrient availability
+4.6,162,42,180,2.02,2.79,Acidic soil - verify pH and seek local amendment guidance
+5.2,285,31,62,2.59,0.26,Acidic soil - verify pH and seek local amendment guidance
+6.6,195,43,181,1.09,0.64,Maintain soil health - continue monitoring
+5.3,237,17,83,3.81,1.68,Acidic soil - verify pH and seek local amendment guidance
+8.1,94,20,312,0.6,2.64,Alkaline soil - verify pH and assess nutrient availability
+8.4,378,29,134,1.89,0.24,Alkaline soil - verify pH and assess nutrient availability
+6.9,214,18,318,3.85,0.26,Maintain soil health - continue monitoring
+7.7,256,15,181,0.47,3.75,Salinity concern - assess water quality and drainage
+8.3,385,41,64,0.52,3.36,Alkaline soil - verify pH and assess nutrient availability
+5.2,319,25,50,2.4,1.65,Acidic soil - verify pH and seek local amendment guidance
+6.5,389,44,48,3.88,1.31,Nutrient review needed - use crop-specific soil test
+5.4,244,15,87,0.65,3.48,Acidic soil - verify pH and seek local amendment guidance
+7.7,407,25,270,3.91,3.38,Salinity concern - assess water quality and drainage
+8.7,285,8,297,2.32,2.22,Alkaline soil - verify pH and assess nutrient availability
+8.5,346,12,311,2.91,1.98,Alkaline soil - verify pH and assess nutrient availability
+6.6,370,19,111,1.75,0.45,Maintain soil health - continue monitoring
+4.8,190,26,256,1.95,3.73,Acidic soil - verify pH and seek local amendment guidance
+7.3,91,4,121,1.06,3.91,Salinity concern - assess water quality and drainage
+5.5,116,19,179,3.76,3.91,Salinity concern - assess water quality and drainage
+5.6,262,5,133,0.53,0.86,Low organic matter - consider suitable organic matter practices
+7.1,115,18,294,2.29,2.54,Salinity concern - assess water quality and drainage
+5.4,242,36,280,3.5,3.8,Acidic soil - verify pH and seek local amendment guidance
+6.1,282,7,56,1.14,1.81,Nutrient review needed - use crop-specific soil test
+8.8,365,18,124,2.3,0.81,Alkaline soil - verify pH and assess nutrient availability
+5.9,337,10,219,2.79,1.8,Nutrient review needed - use crop-specific soil test
+5.5,336,33,291,3.77,0.83,Maintain soil health - continue monitoring
+5.0,120,27,174,2.22,2.08,Acidic soil - verify pH and seek local amendment guidance
+6.5,159,44,58,2.07,1.74,Nutrient review needed - use crop-specific soil test
+4.8,235,33,201,1.14,2.59,Acidic soil - verify pH and seek local amendment guidance
+4.7,275,44,35,3.62,1.95,Acidic soil - verify pH and seek local amendment guidance
+4.8,228,36,268,2.7,3.15,Acidic soil - verify pH and seek local amendment guidance
+6.4,224,29,85,2.63,1.46,Maintain soil health - continue monitoring
+7.5,368,35,224,3.85,1.55,Maintain soil health - continue monitoring
+6.4,286,37,137,3.03,1.89,Maintain soil health - continue monitoring
+5.5,242,28,246,0.79,0.87,Low organic matter - consider suitable organic matter practices
+7.3,100,34,95,1.31,0.53,Nutrient review needed - use crop-specific soil test
+8.8,382,36,74,1.03,1.24,Alkaline soil - verify pH and assess nutrient availability
+6.9,128,40,241,2.92,0.78,Nutrient review needed - use crop-specific soil test
+6.1,333,36,168,0.85,1.17,Low organic matter - consider suitable organic matter practices
+5.9,197,8,235,2.91,0.37,Nutrient review needed - use crop-specific soil test
+6.7,258,13,256,3.07,3.28,Salinity concern - assess water quality and drainage
+6.5,218,37,110,1.63,0.79,Maintain soil health - continue monitoring
+6.6,146,17,143,1.19,3.03,Salinity concern - assess water quality and drainage
+5.9,126,14,135,1.92,1.28,Nutrient review needed - use crop-specific soil test
+6.2,107,40,98,3.12,3.73,Salinity concern - assess water quality and drainage
+6.7,286,30,36,4.0,2.49,Salinity concern - assess water quality and drainage
+8.5,372,37,293,3.23,1.9,Alkaline soil - verify pH and assess nutrient availability
+4.9,315,3,198,2.13,1.69,Acidic soil - verify pH and seek local amendment guidance
+7.1,231,35,190,3.4,0.52,Maintain soil health - continue monitoring
+5.5,130,36,49,3.98,3.5,Salinity concern - assess water quality and drainage
+8.5,365,9,121,1.79,1.15,Alkaline soil - verify pH and assess nutrient availability
+7.2,286,42,155,2.36,1.26,Maintain soil health - continue monitoring
+5.3,184,12,86,0.51,3.8,Acidic soil - verify pH and seek local amendment guidance
+6.3,81,38,30,1.01,0.78,Nutrient review needed - use crop-specific soil test
+8.2,305,44,106,3.68,0.65,Alkaline soil - verify pH and assess nutrient availability
+7.5,419,37,151,1.32,3.86,Salinity concern - assess water quality and drainage
+5.7,144,3,154,1.9,1.09,Nutrient review needed - use crop-specific soil test
+8.0,278,35,197,3.39,0.93,Alkaline soil - verify pH and assess nutrient availability
+4.5,196,27,195,3.98,0.25,Acidic soil - verify pH and seek local amendment guidance
+5.4,383,24,241,0.63,1.64,Acidic soil - verify pH and seek local amendment guidance
+7.9,351,9,137,1.0,0.86,Alkaline soil - verify pH and assess nutrient availability
+6.3,216,23,244,2.68,2.79,Salinity concern - assess water quality and drainage
+8.9,370,9,149,1.79,3.7,Alkaline soil - verify pH and assess nutrient availability
+5.6,417,33,55,0.66,1.93,Low organic matter - consider suitable organic matter practices
+5.4,331,10,83,2.02,1.23,Acidic soil - verify pH and seek local amendment guidance
+8.1,136,41,186,1.28,1.17,Alkaline soil - verify pH and assess nutrient availability
+5.6,348,14,69,3.79,1.67,Nutrient review needed - use crop-specific soil test
+5.5,205,38,213,0.43,0.73,Low organic matter - consider suitable organic matter practices
+7.4,203,21,257,1.08,3.68,Salinity concern - assess water quality and drainage
+8.3,149,38,51,0.49,3.48,Alkaline soil - verify pH and assess nutrient availability
+5.9,141,7,209,3.11,0.6,Nutrient review needed - use crop-specific soil test
+8.0,117,42,60,1.93,3.52,Alkaline soil - verify pH and assess nutrient availability
+6.9,322,44,245,3.34,3.02,Salinity concern - assess water quality and drainage
+5.8,212,7,316,2.16,2.07,Salinity concern - assess water quality and drainage
+7.1,145,39,144,3.21,3.66,Salinity concern - assess water quality and drainage
+5.6,338,33,113,2.24,0.84,Maintain soil health - continue monitoring
+8.1,304,22,308,2.97,3.68,Alkaline soil - verify pH and assess nutrient availability
+8.9,201,17,133,2.05,3.95,Alkaline soil - verify pH and assess nutrient availability
+4.9,289,28,149,3.54,1.21,Acidic soil - verify pH and seek local amendment guidance
+8.0,276,19,206,3.57,1.28,Alkaline soil - verify pH and assess nutrient availability
+8.0,412,11,127,2.54,2.67,Alkaline soil - verify pH and assess nutrient availability
+8.2,401,4,162,2.93,2.3,Alkaline soil - verify pH and assess nutrient availability
+6.7,139,22,46,1.59,3.47,Salinity concern - assess water quality and drainage
+4.6,362,19,150,0.49,3.02,Acidic soil - verify pH and seek local amendment guidance
+5.7,400,25,281,3.06,3.55,Salinity concern - assess water quality and drainage
+5.5,257,25,148,1.21,1.0,Maintain soil health - continue monitoring
+4.6,340,17,307,2.93,2.58,Acidic soil - verify pH and seek local amendment guidance
+7.8,394,25,59,1.96,2.6,Salinity concern - assess water quality and drainage
+5.4,231,3,287,3.3,1.46,Acidic soil - verify pH and seek local amendment guidance
+7.1,106,8,106,3.64,3.7,Salinity concern - assess water quality and drainage
+6.0,410,37,79,1.08,0.45,Nutrient review needed - use crop-specific soil test
+5.0,196,5,47,0.57,0.62,Acidic soil - verify pH and seek local amendment guidance
+8.2,416,33,198,3.17,2.56,Alkaline soil - verify pH and assess nutrient availability
+8.5,170,29,157,2.94,1.84,Alkaline soil - verify pH and assess nutrient availability
+6.1,247,10,165,0.93,3.21,Salinity concern - assess water quality and drainage
+5.7,211,9,249,3.42,1.39,Nutrient review needed - use crop-specific soil test
+7.6,148,30,278,0.59,3.08,Salinity concern - assess water quality and drainage
+5.9,330,12,161,3.67,1.25,Maintain soil health - continue monitoring
+7.1,308,13,114,2.35,2.53,Salinity concern - assess water quality and drainage
+7.2,115,29,298,2.87,2.73,Salinity concern - assess water quality and drainage
+7.6,108,28,51,1.95,1.7,Nutrient review needed - use crop-specific soil test
+4.9,418,12,125,3.05,1.02,Acidic soil - verify pH and seek local amendment guidance
+8.2,218,22,188,3.11,1.94,Alkaline soil - verify pH and assess nutrient availability
+6.7,89,29,239,2.12,2.16,Salinity concern - assess water quality and drainage
+7.2,394,44,243,0.57,2.11,Salinity concern - assess water quality and drainage
+6.7,245,41,127,2.03,3.85,Salinity concern - assess water quality and drainage
+6.5,237,27,82,1.1,0.47,Maintain soil health - continue monitoring
+4.5,292,21,136,3.01,0.23,Acidic soil - verify pH and seek local amendment guidance
+7.1,336,43,74,3.78,0.75,Nutrient review needed - use crop-specific soil test
+7.3,130,16,144,1.83,3.06,Salinity concern - assess water quality and drainage
+5.5,290,13,292,2.15,3.05,Salinity concern - assess water quality and drainage
+8.3,189,44,264,1.36,1.08,Alkaline soil - verify pH and assess nutrient availability
+5.7,140,29,198,3.98,3.96,Salinity concern - assess water quality and drainage
+6.9,182,29,239,3.75,0.9,Maintain soil health - continue monitoring
+6.9,369,31,271,1.42,1.82,Maintain soil health - continue monitoring
+8.9,221,44,296,3.25,1.15,Alkaline soil - verify pH and assess nutrient availability
+5.9,386,29,188,2.37,2.07,Salinity concern - assess water quality and drainage
+7.4,208,20,226,1.53,1.39,Maintain soil health - continue monitoring
+5.1,329,21,84,3.45,1.84,Acidic soil - verify pH and seek local amendment guidance
+5.5,97,34,315,0.38,1.33,Low organic matter - consider suitable organic matter practices
+5.3,259,13,220,1.32,0.35,Acidic soil - verify pH and seek local amendment guidance
+4.7,392,27,263,3.44,0.71,Acidic soil - verify pH and seek local amendment guidance
+7.2,67,12,158,1.94,0.38,Nutrient review needed - use crop-specific soil test
+8.1,285,40,66,0.96,3.63,Alkaline soil - verify pH and assess nutrient availability
+7.0,63,31,73,1.05,2.67,Salinity concern - assess water quality and drainage
+7.8,130,28,308,2.13,1.27,Nutrient review needed - use crop-specific soil test
+6.6,403,35,134,1.13,0.28,Maintain soil health - continue monitoring
+6.1,233,32,134,1.92,2.61,Salinity concern - assess water quality and drainage
+7.2,66,29,255,3.3,2.88,Salinity concern - assess water quality and drainage
+5.0,371,22,210,1.21,0.27,Acidic soil - verify pH and seek local amendment guidance
+5.5,277,27,161,1.83,0.79,Maintain soil health - continue monitoring
+8.2,264,41,156,3.74,0.17,Alkaline soil - verify pH and assess nutrient availability
+8.7,132,24,306,0.34,3.08,Alkaline soil - verify pH and assess nutrient availability
+8.9,130,41,97,2.34,0.4,Alkaline soil - verify pH and assess nutrient availability
+8.3,409,5,208,2.57,1.73,Alkaline soil - verify pH and assess nutrient availability
+7.1,240,9,222,0.58,2.95,Salinity concern - assess water quality and drainage
+8.3,326,25,167,2.19,1.32,Alkaline soil - verify pH and assess nutrient availability
+8.9,106,33,36,0.95,0.96,Alkaline soil - verify pH and assess nutrient availability
+6.6,192,27,303,3.02,0.94,Maintain soil health - continue monitoring
+8.4,296,18,87,1.19,2.51,Alkaline soil - verify pH and assess nutrient availability
+8.7,366,8,104,2.86,3.95,Alkaline soil - verify pH and assess nutrient availability
+5.2,222,6,224,1.56,0.38,Acidic soil - verify pH and seek local amendment guidance
+6.6,302,34,248,1.35,1.41,Maintain soil health - continue monitoring
+8.3,323,24,122,1.95,3.82,Alkaline soil - verify pH and assess nutrient availability
+7.4,363,10,63,3.57,2.01,Salinity concern - assess water quality and drainage
+5.1,157,9,84,0.48,1.22,Acidic soil - verify pH and seek local amendment guidance
+5.1,307,11,157,1.83,2.14,Acidic soil - verify pH and seek local amendment guidance
+5.8,213,4,228,1.68,2.64,Salinity concern - assess water quality and drainage
+5.0,281,20,33,1.22,1.88,Acidic soil - verify pH and seek local amendment guidance
+6.3,335,37,31,2.26,2.41,Salinity concern - assess water quality and drainage
+4.6,196,29,179,1.58,1.74,Acidic soil - verify pH and seek local amendment guidance
+5.0,94,35,271,0.38,2.45,Acidic soil - verify pH and seek local amendment guidance
+7.9,399,40,112,3.21,2.57,Alkaline soil - verify pH and assess nutrient availability
+8.7,413,44,243,1.95,2.23,Alkaline soil - verify pH and assess nutrient availability
+5.2,75,36,127,3.95,0.16,Acidic soil - verify pH and seek local amendment guidance
+6.5,97,38,178,2.08,3.91,Salinity concern - assess water quality and drainage
+6.6,176,3,67,0.49,3.79,Salinity concern - assess water quality and drainage
+5.7,343,24,43,1.87,3.73,Salinity concern - assess water quality and drainage
+6.8,92,44,311,1.26,2.07,Salinity concern - assess water quality and drainage
+8.4,118,21,67,3.47,1.62,Alkaline soil - verify pH and assess nutrient availability
+6.9,160,41,313,0.99,1.28,Low organic matter - consider suitable organic matter practices
+4.6,205,19,193,2.82,0.81,Acidic soil - verify pH and seek local amendment guidance
+7.5,132,18,106,1.61,1.46,Nutrient review needed - use crop-specific soil test
+7.7,225,22,219,3.45,2.33,Salinity concern - assess water quality and drainage
+5.5,190,4,291,1.57,0.25,Nutrient review needed - use crop-specific soil test
+6.7,259,8,306,3.06,0.61,Nutrient review needed - use crop-specific soil test
+8.1,145,41,301,2.54,2.87,Alkaline soil - verify pH and assess nutrient availability
+7.7,306,44,171,0.9,2.12,Salinity concern - assess water quality and drainage
+6.9,182,35,81,2.57,0.16,Maintain soil health - continue monitoring
+8.7,277,14,105,0.7,1.04,Alkaline soil - verify pH and assess nutrient availability
+5.7,74,37,39,1.33,0.85,Nutrient review needed - use crop-specific soil test
+6.2,210,19,314,1.51,0.45,Maintain soil health - continue monitoring
+4.6,182,12,88,3.1,3.96,Acidic soil - verify pH and seek local amendment guidance
+8.7,76,24,261,1.46,3.12,Alkaline soil - verify pH and assess nutrient availability
+7.9,251,33,274,3.61,1.79,Alkaline soil - verify pH and assess nutrient availability
+8.0,317,36,251,3.74,0.47,Alkaline soil - verify pH and assess nutrient availability
+9.0,171,21,253,0.65,2.66,Alkaline soil - verify pH and assess nutrient availability
+4.7,300,35,244,2.53,3.44,Acidic soil - verify pH and seek local amendment guidance
+4.9,347,34,110,1.83,0.27,Acidic soil - verify pH and seek local amendment guidance
+6.5,226,14,311,1.87,3.53,Salinity concern - assess water quality and drainage
+5.7,201,39,289,1.88,1.38,Maintain soil health - continue monitoring
+6.8,78,20,165,2.16,0.69,Nutrient review needed - use crop-specific soil test
+6.1,152,28,194,1.83,3.31,Salinity concern - assess water quality and drainage
+5.7,301,43,32,3.88,3.37,Salinity concern - assess water quality and drainage
+5.1,342,41,182,0.93,3.29,Acidic soil - verify pH and seek local amendment guidance
+7.1,173,14,78,0.73,2.3,Salinity concern - assess water quality and drainage
+7.7,394,13,47,2.51,3.28,Salinity concern - assess water quality and drainage
+4.8,243,24,115,2.75,0.56,Acidic soil - verify pH and seek local amendment guidance
+8.7,153,13,289,0.99,1.36,Alkaline soil - verify pH and assess nutrient availability
+7.1,180,33,172,0.88,0.51,Low organic matter - consider suitable organic matter practices
+9.0,219,35,162,3.53,1.98,Alkaline soil - verify pH and assess nutrient availability
+8.7,391,6,290,3.74,3.8,Alkaline soil - verify pH and assess nutrient availability
+5.9,101,16,132,1.97,1.72,Nutrient review needed - use crop-specific soil test
+5.4,258,40,279,2.91,0.36,Acidic soil - verify pH and seek local amendment guidance
+4.7,151,7,219,1.55,2.66,Acidic soil - verify pH and seek local amendment guidance
+4.9,347,42,287,3.54,0.63,Acidic soil - verify pH and seek local amendment guidance
+5.9,329,42,136,2.29,1.26,Maintain soil health - continue monitoring
+4.8,228,18,187,1.73,0.87,Acidic soil - verify pH and seek local amendment guidance
+5.7,151,15,211,1.74,1.45,Maintain soil health - continue monitoring

@@ -1,0 +1,31 @@
+State,Month,Commodity,Variety,Modal_Price_Rs_per_Quintal,Min_Price_Rs_per_Quintal,Max_Price_Rs_per_Quintal,Arrivals_Tonnes
+Andhra Pradesh,2025-01,Paddy,Rice,2250,2180,2320,18450
+Andhra Pradesh,2025-02,Paddy,Rice,2280,2200,2350,19200
+Andhra Pradesh,2025-03,Paddy,Rice,2310,2230,2380,20100
+Telangana,2025-01,Maize,Yellow,2100,2020,2180,12600
+Telangana,2025-02,Maize,Yellow,2140,2050,2220,13100
+Telangana,2025-03,Maize,Yellow,2170,2080,2250,13800
+Karnataka,2025-01,Tomato,Local,1800,1200,2400,8200
+Karnataka,2025-02,Tomato,Local,1950,1300,2600,9100
+Karnataka,2025-03,Tomato,Local,2050,1400,2700,9600
+Maharashtra,2025-01,Onion,Red,2400,1800,3000,25500
+Maharashtra,2025-02,Onion,Red,2550,1900,3200,26800
+Maharashtra,2025-03,Onion,Red,2700,2000,3400,27900
+Madhya Pradesh,2025-01,Wheat,Lokwan,2450,2350,2550,31200
+Madhya Pradesh,2025-02,Wheat,Lokwan,2480,2380,2580,32500
+Madhya Pradesh,2025-03,Wheat,Lokwan,2510,2410,2610,33800
+Uttar Pradesh,2025-01,Potato,Local,1100,800,1400,42100
+Uttar Pradesh,2025-02,Potato,Local,1250,900,1600,43900
+Uttar Pradesh,2025-03,Potato,Local,1350,1000,1700,45200
+Punjab,2025-01,Wheat,Common,2500,2400,2600,29800
+Punjab,2025-02,Wheat,Common,2530,2430,2630,30700
+Punjab,2025-03,Wheat,Common,2560,2460,2660,31900
+Rajasthan,2025-01,Mustard,Black,5200,4900,5500,11400
+Rajasthan,2025-02,Mustard,Black,5350,5000,5700,12100
+Rajasthan,2025-03,Mustard,Black,5480,5150,5800,12900
+West Bengal,2025-01,Potato,Jyoti,1250,950,1550,36500
+West Bengal,2025-02,Potato,Jyoti,1320,1000,1640,37800
+West Bengal,2025-03,Potato,Jyoti,1400,1050,1750,39100
+Gujarat,2025-01,Groundnut,Bold,5600,5200,6000,9800
+Gujarat,2025-02,Groundnut,Bold,5700,5300,6100,10400
+Gujarat,2025-03,Groundnut,Bold,5850,5400,6250,11100

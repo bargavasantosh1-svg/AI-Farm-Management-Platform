@@ -1,0 +1,40 @@
+# Python virtual environments
+.venv/
+.venv-1/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Local databases
+*.db
+*.sqlite3
+
+# Node dependencies
+node_modules/
+
+# Build files
+dist/
+build/
+
+# Editor files
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+# Large PlantVillage image dataset
+datasets/disease/PlantVillage-Dataset-master/
+# Large trained model
+models/*.pkl
